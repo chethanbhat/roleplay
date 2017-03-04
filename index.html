@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+<ul id="posts">
+
+	  <li class="post">
+			{% assign sorted_pages = site.pages | sort:"order" %}
+			{% for page in sorted_pages %}
+				{% if page.layout == "page" %}
+		  	<h2><a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</a></h2>
+		  	<p>{{ page.description | strip_html | truncatewords:50}}
+				<a class="read-more" href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">[Read More]</a>
+				</p>
+				{% endif %}
+			{% endfor %}
+	  </li>
+
+</ul>

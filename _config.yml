@@ -1,0 +1,38 @@
+# Site settings
+title: Roleplay
+description: "The definition of role-play is literally to pretend to be someone else. It wasn’t until the late 1960’s that role-playing was seen as a form of relaxation and fun than psychotherapy in the mainstream community."
+url: "http://ravers.com/"
+
+# Build settings
+
+baseurl: ""
+url: "https://chethanbhat.github.io/roleplay/"
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+excerpt_separator: "<!-- Read more -->"
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
