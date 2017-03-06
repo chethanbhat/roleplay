@@ -1,11 +1,10 @@
 # Site settings
 title: Roleplay
 description: "The definition of role-play is literally to pretend to be someone else. It wasn’t until the late 1960’s that role-playing was seen as a form of relaxation and fun than psychotherapy in the mainstream community."
-url: "http://ravers.com/"
 
 # Build settings
 
-baseurl: ""
+baseurl: "/roleplay"
 url: "https://chethanbhat.github.io/roleplay/"
 markdown: kramdown
 source: .
