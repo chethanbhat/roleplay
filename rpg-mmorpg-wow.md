@@ -1,7 +1,12 @@
 ---
 layout: page
 title: RPG, MMORPG, WoW
+description: Role-playing games, as originally concieved, were an activity for 5-8 people sitting at one table. Most people control a single character in an imagined world, and one person provides the world. MMORPGS, on the other hand, approach the situation very differently. Not long after their creation, RPGs were brought to the computer.
+order: 5
 ---
+
+![Roleplay Costume]({{site.baseurl}}/public/Roleplay2.jpg)
+
 Wow! – MMORPGs & RPGs
 
 Role-playing games, as originally concieved, were an activity for 5-8 people sitting at one table. Most people control a single character in an imagined world, and one person provides the world. MMORPGS, on the other hand, approach the situation very differently. Not long after their creation, RPGs were brought to the computer. The first RPGs were single player affairs; one person ran their character or characters, and the computer provided a world and story for them. However, with the advent of large computer networks like the Internet, it became clear that something more was possible.

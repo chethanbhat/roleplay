@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Live Action Roleplay
+description: Live-Action role playing games, usually known as LARPs, are a form of role-playing game. In a traditional RPG, players sit around a table, and use a map and verbal descriptions to indicate what their in-game characters wish to do and say. In a LARP, the players find or build a suitable space, and act out the actions and conversations of their characters. LARPing, like regular roleplaying, uses rules to resolve conflicts between players.
+order: 4
 ---
+
+![Roleplay]({{site.baseurl}}/public/Roleplay2.jpg)
 
 What Is Live-Action Roleplay?
 

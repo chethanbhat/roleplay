@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Sexual Roleplay
+description: Even the most sexual couple can spice things up via sexual roleplay or costumes. It helps add new elements to the bedroom, no matter your role, you can feel like a different person spending time with a different person that you do every night. One great way to help spark sexual roleplay is to don a costume.
+order: 2
 ---
+
+![Roleplay Costume]({{site.baseurl}}/public/Roleplay3.jpg)
 
 Sexual Roleplay – PVC Can Set You Free
 

@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Roleplaying History
+description: To role-play is to change your personality and/or actions to adopt a new persona. This act can be done consciously or unconsciously. Role-playing can be used as a tool to help one prepare for a difficult social task that requires the overcoming of one’s fears or inhibitions.
+order: 3
 ---
+
+![Roleplay Games]({{site.baseurl}}/public/Roleplay3.jpg)
 
 The History Of Role-Play
 

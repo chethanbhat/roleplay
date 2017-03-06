@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Roleplay
+description: "The definition of role-play is literally to pretend to be someone else. It wasn’t until the late 1960’s that role-playing was seen as a form of relaxation and fun than psychotherapy in the mainstream community."
+order: 1
 ---
+
+![Roleplay]({{site.baseurl}}/public/Roleplay1.jpg)
 
 What Is Roleplay?
 
