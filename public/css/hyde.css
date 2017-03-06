@@ -63,9 +63,6 @@ html {
   background-color: #7f6b00;
 }
 
-.lead {
-  display: none;
-}
 
 @media (min-width: 48em) {
   .sidebar {
@@ -81,17 +78,20 @@ html {
   }
 }
 
-@media (max-width: 47em) {
+@media (max-width: 48em) {
   .footer-text{
     text-align: center;
   }
+
+  .lead {
+    display: none;
+  }
+
+  .sidebar-about{
+    border-bottom:2px solid #fff;
+  }
+
 }
-
-
-.footer-text{
-  text-align: center;
-}
-
 
 /* Sidebar links */
 .sidebar a {
